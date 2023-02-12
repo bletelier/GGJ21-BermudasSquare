@@ -1,4 +1,4 @@
-# Reach the Water
+# Bermuda's Square
 ## Global Game Jam Valdivia 2021
 
 ### This game was created while streaming on [my twitch channel](https://www.twitch.tv/wrathiontbp), the viewers were really helpfull and give some cool ideas that were implemented in the game! TYSM ❤
